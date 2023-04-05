@@ -1,0 +1,343 @@
+<html>
+<head>
+<title>Halloween Horror Nights in L.A.- Ticket Info</title>
+<script type="text/javascript" src="../javascript/genericpopwin.js"></script>
+<script src='swfobject.js' type='text/javascript' language='javascript'></script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<link href="css/hhn.css" rel="stylesheet" type="text/css" media="all">
+		<csscriptdict import>
+			<script type="text/javascript" src="GeneratedItems/CSScriptLib.js"></script>
+		</csscriptdict>
+		<csactiondict>
+			<script type="text/javascript"><!--
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		pre_nav_sweeps_b = newImage('images/nav_sweeps_b.gif');
+		pre_btn_go_b = newImage('images/btn_go_b.gif');
+		pre_btn_buynow_b = newImage('images/btn_buynow_b.gif');
+		preloadFlag = true;
+	}
+}
+
+function movenext (obj) {
+	
+	var newobj;
+	
+	switch(obj.name) {
+	case "barcode1":
+		newobj = document.getElementById("bc2");
+		break;
+	case "barcode2":
+		newobj = document.getElementById("bc3");
+		break;
+	case "barcode3":
+		newobj = document.getElementById("bc4");
+		break;
+	case "barcode4":
+		return
+		break;
+	}	
+	
+	if  (obj.value.length == 5) {
+		newobj.focus();
+	}
+}
+
+// --></script>
+		</csactiondict>
+<style>
+#error_promo, #error, #error888 {
+	color: #FF0000;
+	font-weight: bold;
+	font-size: 12px; font-family: Arial, Helvetica, Geneva, SunSans-Regular, sans-serif; line-height: 18px; 
+}
+
+a.always_underline:link { text-decoration: underline; }
+a.always_underline:visited { text-decoration: underline; }
+a.always_underline:hover { text-decoration: underline; }
+a.always_underline:active { text-decoration: underline; }
+
+.grayout {
+	color: #666666;
+}
+
+.strikeout {
+	text-decoration: line-through;
+}
+</style>
+		<meta name="Title" content="Halloween Horror Nights in L.A.- Ticket Info">
+		<meta name="description" content="Official Site of Halloween Horror Nights at Universal Studios Hollywood. Buy your tickets now and save.">
+		<meta name="keywords" content="universal studios Hollywood, universal studio, los Angeles, California, print at home, print@home tickets, buy, deals, tickets, online , annual pass,   event hours, Halloween, Halloween horror nights, advance purchase, hot deals">
+	</head>
+<body onload="preloadImages();" bgcolor="black" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+		<div align="center">
+			<!--Begin table-->
+			<table id="Table_01" width="901" border="0" cellpadding="0" cellspacing="0" bgcolor="black">
+				<tr height="134">
+					<td height="134"><a href="index.html"><img src="images/logo.jpg" width="305" height="134" alt="" border="0"></a></td>
+					<td valign="top" height="134" background="images/nav_bkgrnd_tickets.jpg">
+						<div id="flash_content" style="width:596px; height:134px;">
+							<div align="center">
+								<br>
+								<br>
+								<a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&promoid=BIOW" target="_blank"><img src="images/get_flash_player.gif" alt="" height="31" width="88" border="0"></a><br>
+							</div>
+							<p align="center"><span class="txt_body">The Flash 8 plugin is required to  view this content. Please <a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&promoid=BIOW" target="_blank">click here</a> to download the plugin.</span></p>
+						</div>
+						<script type="text/javascript">
+	var so = new SWFObject("nav_new.swf", "mymovie", "596", "100", "8", "#000000",true);
+	so.addParam("wmode","transparent");
+	so.addParam("salign","t");
+	so.addVariable("active_nav", "7");
+	so.write("flash_content");
+</script>
+					</td>
+					<td height="134"><img src="images/spacer.gif" width="1" height="134" alt=""></td>
+				</tr>
+				<tr>
+					<td class="bkgrnd_tickets" colspan="2" valign="top"><!--Begin body
+-->
+						<table width="901" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td align="left" valign="top">
+									<table class="tb_full_red" width="901" border="0" cellspacing="0" cellpadding="6">
+										<!-- <tr>
+											<td colspan="5" align="center" style='padding-bottom:4px;'><span class="txt_tickets" style='color: #6699ff; font-weight: bold;'	>As a result of the high level of interest in this event, you may experience<br /> technical difficulties ordering tickets online.  If so, please <a href="javascript:genericpopwin('tic_err_popup.html', 500, 500, 1, 1);" class="always_underline" style="font-size: 14px; color: #6699ff;">click here</a> for more info.</span></td>
+										</tr> -->
+										<tr>
+											<td class="txt_headline_red" width="28%"></td>
+											<td colspan="4" align="center" style='padding-bottom:4px;'><span class="txt_headline_red" style='color: white; font-weight:bold;'>Buy Your Tickets Now and Save!   NO service charge with Print@Home tickets.</span></td>
+										</tr>
+										<tr>
+											<td class="tb_lt_red" valign="top" width="28%"><span class="txt_tickets">TICKETS:</span></td>
+											<td class="tb_l1t2_red" align="center" valign="top" width="18%"><span class="txt_tickets">EVENT HOURS:</span></td>
+											<td class="tb_l1t2_red" align="center" valign="top" width="18%"><span class="txt_tickets">DAY-OF-EVENT:</span></td>
+											<td class="tb_l1t2_red" align="center" valign="top" width="18%"><span class="txt_tickets">ONLINE ADVANCE<span style="color: #ffff00;">*</span>:<!-- * --></span></td>
+											<td class="tb_l1t2r2_red" align="center" valign="top" width="18%"><span class="txt_tickets">PURCHASE:</span></td>
+										</tr>
+										<tr>
+											<td class="tb_l2t1_red" width="28%"><span class="txt_tickets"><strong>Event Admission</strong> on night of:<br>
+													Oct. <span class="grayout strikeout">13, 14, or</span> 31<br>
+												</span><span class="txt_tickets_12">
+													Buy in advance and save $15!</span></td>
+											<td class="tb_l1t1_red" align="center" width="18%"><span class="txt_tickets">7 PM &#150; Midnight </span></td>
+											<td class="tb_l1t1_red" align="center" width="18%"><span class="txt_tickets"><!-- <a href="http://secure.universalstudios.com/webstore/shop/ticket-selection.aspx?Merchant=USHMainStore&SalesCategoryGroup=USHMain&SalesCategory=USHHHNLive#hhndo" style="font-size: 14px; color: white;"> -->$49.00<!-- </a><br /> -->
+												<!-- <span style="color: red;"><a href="http://secure.universalstudios.com/webstore/shop/ticket-selection.aspx?Merchant=USHMainStore&SalesCategoryGroup=USHMain&SalesCategory=USHHHNLive#hhndo" style="font-size: 14px;">Buy for Tonight</a></span> --></span></td>
+											<td class="tb_l1t1_red" align="center" width="18%"><span class="txt_tickets"><font color="white"><strike>$49.00</strike></font>&nbsp;&nbsp;&nbsp;<a class="ticketlink" href="http://secure.universalstudios.com/webstore/shop/ticket-selection.aspx?Merchant=USHMainStore&SalesCategoryGroup=USHMain&SalesCategory=%20USHHHNLive#hhnnp">$34.00</a></span></td>
+											<td class="tb_l1t1r2_red" align="center" width="18%"><a onmouseover="changeImages('btn_buynow','images/btn_buynow_b.gif');return true" onmouseout="changeImages('btn_buynow','images/btn_buynow.gif');return true" href="http://secure.universalstudios.com/webstore/shop/ticket-selection.aspx?Merchant=USHMainStore&SalesCategoryGroup=USHMain&SalesCategory=%20USHHHNLive#hhnnp"><img id="btn_buynow" src="images/btn_buynow.gif" alt="" name="btn_buynow" width="100" height="33" border="0"></a></td>
+										</tr>
+										
+										<tr>
+											<td class="tb_l2t1_red" width="28%"><span class="txt_tickets"><strong>Event Admission</strong> on night of:<br>
+													Oct. 27<span style="color: #ffff00;">*</span><br>
+												</span>
+											</td>
+											<td class="tb_l1t1_red" align="center" width="18%"><span class="txt_tickets">7 PM &#150; 2 AM </span></td>
+											<td class="tb_l1t1_red" align="center" width="18%"><span class="txt_tickets">$49.00</span></td>
+											<td class="tb_l1t1_red" align="center" width="18%"><span class="txt_tickets"><a class="ticketlink" href="http://secure.universalstudios.com/webstore/shop/ticket-selection.aspx?Merchant=USHMainStore&SalesCategoryGroup=USHMain&SalesCategory=USHHHNLive">$49.00</a></span></td>
+											<td class="tb_l1t1r2_red" align="center" width="18%"><a onmouseover="changeImages('btn_buynow1x','images/btn_buynow_b.gif');return true" onmouseout="changeImages('btn_buynow1x','images/btn_buynow.gif');return true" href="http://secure.universalstudios.com/webstore/shop/ticket-selection.aspx?Merchant=USHMainStore&SalesCategoryGroup=USHMain&SalesCategory=USHHHNLive"><img id="btn_buynow1x" src="images/btn_buynow.gif" alt="" name="btn_buynow1x" width="100" height="33" border="0"></a></td>
+										</tr>
+										
+										
+										<tr>
+											<td class="tb_l2t1_red" width="28%"><span class="txt_tickets"><strong>Event Admission</strong> on night of:<br>
+													Oct. <span class="grayout strikeout">20, 21, or</span> 28<br>
+												</span><span class="txt_tickets_12">
+													<span class="grayout">Event Admission Oct. 21</span>: <span style="color: red; font-weight: bold;">SOLD OUT</span></span></td>
+											<td class="tb_l1t1_red" align="center" width="18%"><span class="txt_tickets">7 PM &#150; 2 AM </span></td>
+											<td class="tb_l1t1_red" align="center" width="18%"><span class="txt_tickets">$49.00</span></td>
+											<td class="tb_l1t1_red" align="center" width="18%"><span class="txt_tickets"><font color="white"><strike>$49.00</strike></font>&nbsp;&nbsp;&nbsp;<a class="ticketlink" href="http://secure.universalstudios.com/webstore/shop/ticket-selection.aspx?Merchant=USHMainStore&SalesCategoryGroup=USHMain&SalesCategory=%20USHHHNLive#hhnp">$39.00</a></span></td>
+											<td class="tb_l1t1r2_red" align="center" width="18%"><a onmouseover="changeImages('btn_buynow1a','images/btn_buynow_b.gif');return true" onmouseout="changeImages('btn_buynow1a','images/btn_buynow.gif');return true" href="http://secure.universalstudios.com/webstore/shop/ticket-selection.aspx?Merchant=USHMainStore&SalesCategoryGroup=USHMain&SalesCategory=%20USHHHNLive#hhnp"><img id="btn_buynow1a" src="images/btn_buynow.gif" alt="" name="btn_buynow1a" width="100" height="33" border="0"></a></td>
+										</tr>
+										
+										<!-- <tr>
+											<td class="tb_l2t1_red" width="28%"><span class="txt_tickets"><strong>Event Admission</strong> on night of:<br>
+													Oct. 21 or 28<br>
+												</span><span class="txt_tickets_12">
+													Buy in advance and save $10!</span></td>
+											<td class="tb_l1t1_red" align="center" width="18%"><span class="txt_tickets">7 PM &#150; 2 AM</span></td>
+											<td class="tb_l1t1_red" align="center" width="18%"><span class="txt_tickets">$49.00</span></td>
+											<td class="tb_l1t1_red" align="center" width="18%"><span class="txt_tickets"><font color="white"><strike>$49.00</strike></font>&nbsp;&nbsp;&nbsp;<a class="ticketlink" href="http://secure.universalstudios.com/webstore/shop/ticket-selection.aspx?Merchant=USHMainStore&SalesCategoryGroup=USHMain&SalesCategory=%20USHHHNLive#hhnp">$39.00</a></span></td>
+											<td class="tb_l1t1r2_red" align="center" width="18%"><a onmouseover="changeImages('btn_buynow2','images/btn_buynow_b.gif');return true" onmouseout="changeImages('btn_buynow2','images/btn_buynow.gif');return true" href="http://secure.universalstudios.com/webstore/shop/ticket-selection.aspx?Merchant=USHMainStore&SalesCategoryGroup=USHMain&SalesCategory=%20USHHHNLive#hhnp"><img id="btn_buynow2" src="images/btn_buynow.gif" alt="" name="btn_buynow2" width="100" height="33" border="0"></a></td>
+										</tr> -->
+										<tr>
+											<td class="tb_l2t1_red" width="28%"><span class="txt_tickets"><strong>Front of Line Pass</strong> on night of:<br>
+												Oct. <span class="grayout strikeout">13, 14, 20, 27 or</span> 31<br></span>
+												<span class="txt_tickets_12"><!-- Very limited nightly supply! -->
+												<span class="txt_tickets_12"><span class="grayout">Front of Line Pass Oct. 20 &amp; 27</span>:  <span style="color: red; font-weight: bold;">SOLD OUT</span></span><br />
+												<span class="txt_tickets_12"><span class="grayout">Front of Line Pass Oct. 13 &amp; 14</span>:  <span style="color: red; font-weight: bold;">SOLD OUT</span></span><br />
+												<!-- <span class="txt_tickets_12">Buy in advance and save $20!</span> -->
+												</span></td>
+											<td class="tb_l1t1_red" align="center" width="18%"><span class="txt_tickets">See directly above<br />for hours</span></td>
+											<td class="tb_l1t1_red" align="center" width="18%"><span class="txt_tickets">$99.00 </span></td>
+											<td class="tb_l1t1_red" align="center" width="18%"><span class="txt_tickets"><a class="ticketlink" href="http://secure.universalstudios.com/webstore/shop/ticket-selection.aspx?Merchant=USHMainStore&SalesCategoryGroup=USHMain&SalesCategory=%20USHHHNLive#hhnfol">$99.00</a></span></td>
+											<td class="tb_l1t1r2_red" align="center" width="18%"><a onmouseover="changeImages('btn_buynow4','images/btn_buynow_b.gif');return true" onmouseout="changeImages('btn_buynow4','images/btn_buynow.gif');return true" href="http://secure.universalstudios.com/webstore/shop/ticket-selection.aspx?Merchant=USHMainStore&SalesCategoryGroup=USHMain&SalesCategory=%20USHHHNLive#hhnfol"><img id="btn_buynow4" src="images/btn_buynow.gif" alt="" name="btn_buynow4" width="100" height="33" border="0"></a></td>
+										</tr>
+										<tr>
+											<td class="tb_l2t1b2_red" width="28%"><span class="txt_tickets"><strong>Front of Line Pass</strong> on night of:<br>
+													<span class="grayout strikeout">Oct. 21 or 28</span><br>
+												</span><span class="txt_tickets_12"><span class="grayout">Front of Line Pass Oct. 21 &amp; 28</span>:  <font style="color: red; font-weight: bold;">SOLD OUT</font></span></td>
+											<td class="tb_l1t1b2_red" align="center" width="18%"><span class="txt_tickets">See directly above<br />for hours</span></td>
+											<td class="tb_l1t1b2_red" align="center" width="18%"><img src="images/sold_out.gif" width="120" height="33" alt="" border="0" /></td>
+											<td class="tb_l1t1b2_red" align="center" width="18%"><img src="images/sold_out.gif" width="120" height="33" alt="" border="0" /></td>
+											<td class="tb_l2t1r2b2t_red" align="center" width="18%"><img src="images/sold_out.gif" width="120" height="33" alt="" border="0" /></td>
+										</tr>
+									</table>
+									<br>
+								</td>
+							</tr>
+							<tr>
+								<td align="left" valign="top">
+									<form id="APM_Discount" action="validate.php" method="post" name="APM_Discount">
+										<input type="hidden" name="type" value="pass">
+										<table width="901" border="0" cellspacing="0" cellpadding="0">
+											<tr>
+												<td><span class="txt_tickets">For Annual Pass Member discounts, enter the barcode from the back of your pass:</span></td>
+												
+												<td><span class="txt_tickets">If you have a Promo code, enter it here:</span></td>
+</tr>
+											<tr>
+												<td>
+													<table border="0" cellspacing="0" cellpadding="0">
+														<tr>
+															<td><img src="images/spacer.gif" alt="" width="32" height="6" border="0"></td>
+															<td></td>
+															<td></td>
+															<td></td>
+															<td></td>
+														</tr>
+														<tr>
+															<td><input class="form_field" type="text" name="barcode1" size="5" maxlength="5" id="bc1" onkeyup="movenext(this);">&nbsp;</td>
+															<td><input class="form_field" type="text" name="barcode2" size="5" maxlength="5" id="bc2" onkeyup="movenext(this);">&nbsp;</td>
+															<td><input class="form_field" type="text" name="barcode3" size="5" maxlength="5" id="bc3" onkeyup="movenext(this);">&nbsp;</td>
+															<td><input class="form_field" type="text" name="barcode4" size="5" maxlength="5" id="bc4" onkeyup="movenext(this);">&nbsp;&nbsp;</td>
+															<td><a onmouseover="changeImages('btn_go2','images/btn_go_b.gif');return true" onmouseout="changeImages('btn_go2','images/btn_go.gif');return true" href="javascript:APM_Discount.submit();"><img id="btn_go2" src="images/btn_go.gif" alt="" name="btn_go2" width="65" height="24" border="0"></a></td>
+														</tr>
+													</table>
+												</td>
+												</form>
+												<form id="Promo_Discount" action="validate.php" method="post" name="Promo_Discount">
+										<input type="hidden" name="type" value="promo">
+												<td>
+
+													<table border="0" cellspacing="0" cellpadding="0">
+														<tr>
+															<td><img src="images/spacer.gif" alt="" width="32" height="6" border="0"></td>
+															<td></td>
+														</tr>
+														<tr>
+															<td><input class="form_field" type="text" name="code" size="13" maxlength="13" id="bc4" onkeyup="movenext(this);">&nbsp;&nbsp;</td>
+															<td><a onmouseover="changeImages('btn_go3','images/btn_go_b.gif');return true" onmouseout="changeImages('btn_go3','images/btn_go.gif');return true" href="javascript:Promo_Discount.submit();"><img id="btn_go3" src="images/btn_go.gif" alt="" name="btn_go3" width="65" height="24" border="0"></a></td>
+														</tr>
+													</table>
+<div id="error_promo" style="display:none">We're sorry, we didn't recognize that code.</div>
+												</td>
+											</tr>
+										</table>
+									</form>
+									<div id="error" style="display:none">We didn't recognize this number.<br>Please re-enter your barcode or call<br>(888) 309-9625 for Annual Pass member services.</div>
+			<script language="JavaScript">
+			if (location.search != "") {
+				if (location.search == "?err=1") {
+					x = document.getElementById('error');
+				} else if (location.search == "?err=2") {
+					x = document.getElementById('error_promo');
+				}
+				x.style.display = "";
+			}
+			</script>
+
+								<span class="txt_tickets">
+									<span style="color: #ffff00;">*</span>The Online Advance discount does NOT apply to tickets bought on the SAME day that the event is occurring.<!--  The day-of Event Admission online price is $49.00. --><br><br />
+									Tickets are available while supplies last. <strong>Event will sell out.</strong><br><br />
+											Halloween Horror Nights is a separately ticketed evening event. Daytime Admission to the Theme Park is not included with this ticket purchase.<br>
+							<br>
+							
+							Prices, dates, times, attractions and entertainment subject to availability and may change without notice.<br>
+									</span><br>
+								</td>
+				</tr>
+							<tr>
+					<td align="right" valign="top"></td>
+				</tr>
+						</table> 
+						<!--Begin footer-->
+						<table width="901" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td>
+									<div class="txt_footer">
+										</div>
+								</td>
+								<td align="right"><a onmouseover="changeImages('nav_sweeps','images/nav_sweeps_b.gif');return true" onmouseout="changeImages('nav_sweeps','images/nav_sweeps.gif');return true" href="http://signup.universalstudios.com/form/366" target="_blank"><img id="nav_sweeps" src="images/nav_sweeps.gif" alt="" name="nav_sweeps" width="222" height="35" border="0"></a></td>
+								<td align="right" width="315"><img src="images/spacer.gif" alt="" width="61" height="35" border="0"><img src="images/warning-label.gif" alt="" width="254" height="36" border="0"></td>
+							</tr>
+						</table>
+					</td>
+					<td><img src="images/spacer.gif" width="1" height="426" alt=""></td>
+				</tr>
+				<tr>
+					<td colspan="2" valign="top">
+						<table width="901" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td align="left"><img src="images/spacer.gif" alt="" width="5" height="7" border="0"></td>
+					<td align="left" nowrap><span class="footertxt"><a class="footernav" href="eventinfo.html">Event Info</a>&nbsp;|&nbsp;<a class="footernav" href="faq.html">Event FAQ</a>&nbsp;|&nbsp;<a class="footernav" href="director.html">The Director</a>&nbsp;|&nbsp;<a class="footernav" href="productions.html">Productions</a>&nbsp;|&nbsp;<a class="footernav" href="downloads.html">Downloads</a>&nbsp;|&nbsp;<a class="footernav" href="castingcall.html">Casting Call</a>&nbsp;|&nbsp;<a class="footernav" href="tickets.html">Buy Tickets Now&nbsp;</a>|&nbsp;<a class="footernav" href="http://signup.universalstudios.com/form/366" target="_blank">Sweepstakes &amp; Email Updates</a></span></td>
+								<td align="right"><span class="footertxt">&copy; 2006 Universal Studios. All rights reserved.&nbsp;&nbsp;<a class="footernav" href="http://themeparks.universalstudios.com/hollywood/website/terms_of_use.html">Terms of Use</a>&nbsp;|&nbsp;<a class="footernav" href="http://themeparks.universalstudios.com/hollywood/website/privacy_policy.html">Privacy Policy</a></span></td>
+							</tr>
+						</table>
+					</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td><img src="images/spacer.gif" width="305" height="1" alt=""></td>
+					<td><img src="images/spacer.gif" width="596" height="1" alt=""></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td><br>
+						<br>
+					</td>
+					<td></td>
+					<td></td>
+				</tr>
+			</table>
+			<!-- End table-->
+				</div>
+				<!-- SiteCatalyst code version: H.2.
+Copyright 1997-2005 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="/javascript/s_wrapper.js"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName=""
+s.server=""
+s.channel=""
+s.pageType=""
+s.prop1=""; //user group if needed
+s.prop2=""; //Content Group
+s.prop3=""; //Content Type
+s.prop4=""; //Content Name
+s_prop9="Universal Studios Hollywood"; //business unit
+s_prop10="USH Event HHN"; //current site
+s.prop20="nbcuuniversalhollywoodbu"; //account suite
+/* E-commerce Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.2. -->
+	</body>
+</html>
